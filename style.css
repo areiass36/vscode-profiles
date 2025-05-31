@@ -1,3 +1,21 @@
 * {
-    font-family: "JetbrainsMono Nerd Font Mono";
+    font-family: "JetbrainsMono Nerd Font Mono" !important;
+}
+
+.codicon {
+    font-family: codicon !important;
+}
+
+.statusbar-item,
+.window-appicon {
+    display: none !important;
+}
+
+.debug-toolbar {
+    background-color: #000 !important;
+}
+
+#vscodevim\.vim\.primary,
+#vscodevim\.vim\.showcmd {
+    display: flex !important;
 }
