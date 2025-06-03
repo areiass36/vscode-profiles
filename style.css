@@ -6,6 +6,14 @@
     font-family: codicon !important;
 }
 
+.codicon {
+    font-family: codicon !important;
+}
+
+.install {
+    font-family: "JetbrainsMono Nerd Font Mono" !important;
+}
+
 .statusbar-item,
 .window-appicon {
     display: none !important;
