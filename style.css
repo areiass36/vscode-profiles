@@ -15,9 +15,10 @@
     display: none !important;
 }
 
+/*
 .debug-toolbar {
     background-color: #000 !important;
-}
+}*/
 
 #vscodevim\.vim\.primary,
 #vscodevim\.vim\.showcmd {
